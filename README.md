@@ -1,5 +1,5 @@
 # Biblioteca de Imagens PPM-P6 :camera:
-Trabalho 2, da Disciplina Programação de Computadores, (manipulação de imagem, criação de filtros)........hmmmmrsr
+Trabalho 2, da Disciplina Programação de Computadores I, (manipulação de imagem, criação de filtros)........hmmmmrsr
 
 ## :interrobang: Sobre o código 
 
